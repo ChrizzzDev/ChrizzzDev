@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=200&section=header&text=HECTOR+MORETT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computing+Systems+Eng.+student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=200&section=header&text=HECTOR+MORETT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computing+Systems+Eng.&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://ttomer.vercel.app">
   <img src="https://img.shields.io/badge/portfolio-ttomer.vercel.app-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -60,7 +60,7 @@ I am **Héctor Morett**, **Computing Systems Engineering** student and developer
   
 ### 🗺️ [Atlas](https://github.com/chrizzzDev/atlas)
 
-**CLI tool for exploring and understanding software projects.**
+CLI tool for exploring and understanding software projects.
  
 `CLI` `DevTools` `Vlang / Go`
 
